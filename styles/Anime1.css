@@ -1,0 +1,26 @@
+h1 {
+    background-color: darkgreen;
+    padding-left: 30px;
+    text-decoration: underline;
+    width: 300px;
+    margin-left: 20px;
+}
+
+.pera1 {
+    background-color: aquamarine;
+    padding-left: 30px;
+    margin-left: 20px;
+}
+
+h3 {
+    background-color: lightgreen;
+    width: 260px;
+    margin-left: 20px;
+    padding-left: 30px;
+}
+
+.para2 {
+    background-color: aquamarine;
+    margin-left: 20px;
+    padding-left: 30px;
+}
