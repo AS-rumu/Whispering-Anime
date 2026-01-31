@@ -15,23 +15,35 @@ h1 {
     ;
 }
 
-h3 {
+.sam {
     background-color: lightgreen;
-    width: 260px;
+    height: 200px;
     margin-left: 20px;
     padding-left: 30px;
+    background-image: url(s-xx.jpg);
 }
 
 .para2 {
     background-color: aquamarine;
     margin-left: 20px;
     padding-left: 30px;
+    border: 10px crimson;
 }
 
-h3 {
+.dea {
     background-color: lightgreen;
+    width: 200px;
     margin-left: 20px;
     padding-left: 30px;
+}
+
+.death {
+    color: white;
+    background-color: lightgreen;
+    height: 100px;
+    margin-left: 20px;
+    padding-left: 30px;
+    background-image: url("deathnote.jpg");
 }
 
 .para3 {
